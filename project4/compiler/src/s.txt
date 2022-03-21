@@ -1,0 +1,8 @@
+#SIMPLESCRIPT
+SET $v1 0
+#Loop SLP 500
+ADD $v1 $v1 1
+PRN "SENDING : " $v1 "hello"
+SND 1 $v1 "hello"
+BRA Loop
+RTN

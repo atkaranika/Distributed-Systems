@@ -1,0 +1,12 @@
+#SIMPLESCRIPT
+ADD $i 0 10
+#here SUB $i $i 1
+PRN "i is : " $i
+BGT $i 5 here
+MUL $mul 6 5 
+DIV $div 40 5
+#edv SUB $div $div 1
+BEQ $div 7 edvs
+
+SLP 10000
+RET

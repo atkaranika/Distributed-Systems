@@ -1,0 +1,5 @@
+#SIMPLESCRIPT
+SLP 10000
+PRN "kalhmera" 12 "opa" 455
+
+RET

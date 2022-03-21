@@ -1,0 +1,15 @@
+#SIMPLESCRIPT
+SET $v1 0
+#Loop SLP 500
+RCV 0 $v1 $v2
+PRN "Received : " $v1 $v2
+BRA Loop
+RTN
+"hello"
+BRA Loop
+RTN
+$div $div 1
+BEQ $div 7 edv
+
+SLP 10000
+RET

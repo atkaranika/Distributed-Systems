@@ -1,0 +1,7 @@
+#SIMPLESCRIPT
+SET $v1 0
+#Loop SLP 500
+RCV 0 $v1 $v2
+PRN "RECEIVE : " $v1 $v2
+BRA Loop
+RTN

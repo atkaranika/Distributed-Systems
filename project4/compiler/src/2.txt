@@ -1,0 +1,5 @@
+#SIMPLESCRIPT
+PRN " programm will send "
+SND 1 10
+SLP 200
+RET

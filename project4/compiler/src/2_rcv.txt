@@ -1,0 +1,7 @@
+#SIMPLESCRIPT
+PRN " program will receive "
+RCV 0 $a
+PRN "receiving value is " $a
+
+SLP 200
+RET
