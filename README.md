@@ -10,9 +10,9 @@
 >  Implementation of a software network file system middleware (using NFS semantics) via remote procedure calls(RPCs). Also, we implemented software caching on the client-side. <br>
 
 #### Project4
->  Implementation of a mobile code middleware. Creation of a distributed execution environment that supports the interpretation and execution of a Simple-Script(basic language) program. This Simple-Script language supports basic operations and send/receive commands with CSP semantics. The middleware supports the strong migration of a Simple-Script program to another machine/environment. <br> 
+>  Implementation of a mobile code middleware. Creation of a distributed execution environment that supports the interpretation and execution of a Simple-Script(basic language) program. This Simple-Script language supports basic operations and send/receive commands with CSP semantics.<br> 
 
 
 #### Created by:<br />
-Karanika Athanasia
+Karanika Athanasia<br> 
 Lefkopoulou Maria Eleni
